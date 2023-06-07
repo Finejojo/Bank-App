@@ -33,7 +33,7 @@ namespace BankApp
         /// </summary>
         public List<Transaction> AllTransactions { get; }
 
-        private static int _accountNumSeed = 0000000001;
+        //private static int _accountNumSeed = 0000000001;
 
         /// <summary>
         /// Constructor for the Customer account
@@ -85,6 +85,10 @@ namespace BankApp
             const string current = "Current";
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine($" A {(accountType == AccountType.Current ? current : savings)} account {AccountNumber} was created for {AccountOwner.FullName} on {dateCreated.ToShortTimeString()} with {initialBalance:N} Naira initial balance. The account number is {this.AccountNumber}");
+        }
+
+        public Account()
+        {
         }
 
         /// <summary>

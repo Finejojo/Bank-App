@@ -2,7 +2,7 @@
 
 namespace BankApp
 {
-    internal class BankOperations
+    public class BankOperations
     {
         /// <summary>
         /// for creating new customer profile
@@ -178,7 +178,7 @@ namespace BankApp
             account.GetAccountHistory();
         }
 
-        #region Helper Methods
+        #region Operation Methods
 
         /// <summary>
         /// Getting a customer instance with his user name
@@ -224,7 +224,7 @@ namespace BankApp
         /// <returns>The return customer</returns>
         public static Customer ConfirmCustomer(string userName)
         {
-            return Bank.Customers.Find(customer1 => customer1.UserName == userName);
+            return Bank.Customers.Find(customer1 => customer1.UserName == userName)!;
         }
 
         /// <summary>
@@ -252,7 +252,7 @@ namespace BankApp
         /// A helper method used for returning strings from the console
         /// </summary>
         /// <returns>The returned string value</returns>
-        public static string GetString() => Console.ReadLine();
+        public static string GetString() => Console.ReadLine()!;
 
         /// <summary>
         /// A helper method used for return amounts from the console
@@ -264,6 +264,6 @@ namespace BankApp
             return theAmount;
         }
 
-        #endregion Helper Methods
+        #endregion Operation Methods
     }
 }

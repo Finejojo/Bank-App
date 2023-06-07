@@ -13,3 +13,37 @@ C:\Users\Owner\source\repos\Bank App 2\Bank App 2\obj\Debug\net6.0\refint\Bank A
 C:\Users\Owner\source\repos\Bank App 2\Bank App 2\obj\Debug\net6.0\Bank App 2.pdb
 C:\Users\Owner\source\repos\Bank App 2\Bank App 2\obj\Debug\net6.0\Bank App 2.genruntimeconfig.cache
 C:\Users\Owner\source\repos\Bank App 2\Bank App 2\obj\Debug\net6.0\ref\Bank App 2.dll
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.exe
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.deps.json
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.runtimeconfig.json
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.dll
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.pdb
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.dll
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\refint\Bank App 2.dll
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.pdb
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Bank App 2\Bank-App\Bank App 2\obj\Debug\net6.0\ref\Bank App 2.dll
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.exe
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.deps.json
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.runtimeconfig.json
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.dll
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\Bank App 2.pdb
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\Bank-App\Bank App 2\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.AssemblyInfo.cs
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.csproj.CopyComplete
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.dll
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\refint\Bank App 2.dll
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.pdb
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\Bank App 2.genruntimeconfig.cache
+C:\Users\HP\Downloads\Bank-App\Bank App 2\obj\Debug\net6.0\ref\Bank App 2.dll

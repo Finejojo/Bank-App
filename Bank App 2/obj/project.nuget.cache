@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zLoc5j4M21JQs1GwfFIDlOMK9RqANWCksPUJYLFWCZbCkbccF7P33H8UR6jTU7tYX6XoS+zipikfRkcVnHHHJw==",
+  "dgSpecHash": "mPdizabXT321diuDROBOvQVe5QZJAuUSF7s/StbS4s3jelz0LHU5VAyibw2zKol09iLe2e13cFSwWO/hJDnGOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\Bank App 2\\Bank App 2\\Bank App 2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\week-4-Finejojo\\Bank.App\\Bank App 2\\Bank App 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
